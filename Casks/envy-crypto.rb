@@ -1,6 +1,6 @@
 cask "envy-crypto" do
-  version "0.1.0"
-  sha256 "88a4a53f72f24fb390c2b0ed3e72f382bd595187b2022bcc8d9aa8898835289b"
+  version "0.2.2"
+  sha256 "e7c10047e2f1718699764c2a887ba1ef8013b5c7f795757fcb65ead9237b1159"
 
   url "https://github.com/xzchick/envy-crypto-workbench/releases/download/v#{version}/envy-crypto-v#{version}-macos-arm64.tar.gz",
       verified: "github.com/xzchick/envy-crypto-workbench/"
