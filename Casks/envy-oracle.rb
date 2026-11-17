@@ -1,6 +1,6 @@
 cask "envy-oracle" do
-  version "0.1.0"
-  sha256 "45a1e7a4862e4bf0f44fdf01b76649bc0755a7a6815124ace71a1b19fb17e402"
+  version "0.2.2"
+  sha256 "ec0bc257849fbedf44946575177a84081eb0f8b6de1e5f11953aba710e34c4f6"
 
   url "https://github.com/xzchick/envy-oracle/releases/download/v#{version}/envy-oracle-v#{version}-macos-arm64.tar.gz",
       verified: "github.com/xzchick/envy-oracle/"

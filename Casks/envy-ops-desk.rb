@@ -1,6 +1,6 @@
 cask "envy-ops-desk" do
-  version "0.1.0"
-  sha256 "e8f33fa2a060b16ddbf568142849c9958e17457bec5f827eeee4028d7a2805d3"
+  version "0.2.2"
+  sha256 "7be5bef67fa156bf3c356738fc51f0b07e5651167dd472f4c9f6adc716ec08c5"
 
   url "https://github.com/xzchick/envy-ops-desk/releases/download/v#{version}/envy-ops-desk-v#{version}-macos-arm64.tar.gz",
       verified: "github.com/xzchick/envy-ops-desk/"

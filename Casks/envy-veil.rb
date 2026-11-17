@@ -1,6 +1,6 @@
 cask "envy-veil" do
-  version "0.1.0"
-  sha256 "1acc6c1e377c845d6f04ebdee8738d8bb1c9ff529108c5292a48abe7a8bbf617"
+  version "0.2.2"
+  sha256 "9e6e164faf270920b28ca213c6f846de134995e28a4596d4084d42c47dd3c3a4"
 
   url "https://github.com/xzchick/envy-veil/releases/download/v#{version}/envy-veil-v#{version}-macos-arm64.tar.gz",
       verified: "github.com/xzchick/envy-veil/"

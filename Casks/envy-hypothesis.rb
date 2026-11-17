@@ -1,6 +1,6 @@
 cask "envy-hypothesis" do
-  version "0.1.0"
-  sha256 "66204003a3b475e89f3dc3cebf78a45dbd55153ee9c700774d031172fed7a889"
+  version "0.2.2"
+  sha256 "f2d8d1e1afcaa90214e8341f744d0cf10a114f9c14ce4de72875eceb58d20d73"
 
   url "https://github.com/xzchick/envy-hypothesis/releases/download/v#{version}/envy-hypothesis-v#{version}-macos-arm64.tar.gz",
       verified: "github.com/xzchick/envy-hypothesis/"

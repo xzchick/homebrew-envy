@@ -1,6 +1,6 @@
 cask "envy-evidence-vault" do
-  version "0.1.0"
-  sha256 "f3ccbe1a8704d9857ec0020f5dc68565e890e0162d8b1c79cb907d16031b4275"
+  version "0.2.2"
+  sha256 "a0bfe9fc4718d867d241462d924ad51c970ab4a9d04028cf92626b9b408e441f"
 
   url "https://github.com/xzchick/envy-evidence-vault/releases/download/v#{version}/envy-evidence-vault-v#{version}-macos-arm64.tar.gz",
       verified: "github.com/xzchick/envy-evidence-vault/"

@@ -1,6 +1,6 @@
 cask "envy-vault" do
-  version "0.1.0"
-  sha256 "de0007a15e50d95b6c441165d4bb42eba675645b5ff62483e92806f244b21f6a"
+  version "0.2.2"
+  sha256 "447438e1a1f7e6eaf6b581ae116e68f743a4b175f7c842b456619b84255b85be"
 
   url "https://github.com/xzchick/envy-vault/releases/download/v#{version}/envy-vault-v#{version}-macos-arm64.tar.gz",
       verified: "github.com/xzchick/envy-vault/"

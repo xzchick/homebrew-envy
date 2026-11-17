@@ -1,6 +1,6 @@
 cask "envy-integrity-monitor" do
-  version "0.1.0"
-  sha256 "074e6c5f572fef490bc1d236c15cf417a8ca1768bf5624eebf0423eebb08cb4d"
+  version "0.2.2"
+  sha256 "f1ced68060318a11bcc7e9871148f66aa8081b827f76b9bd46113d6065b9f394"
 
   url "https://github.com/xzchick/envy-integrity-monitor/releases/download/v#{version}/envy-integrity-monitor-v#{version}-macos-arm64.tar.gz",
       verified: "github.com/xzchick/envy-integrity-monitor/"

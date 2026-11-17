@@ -1,6 +1,6 @@
 cask "envy-orbit" do
-  version "0.1.0"
-  sha256 "e6746b760703af9e35737ca51989d6784b97968bf746e35c9acaa1e85a375bf3"
+  version "0.2.2"
+  sha256 "aad67475f3e69e44432be594748bc95c28e99ac268803c921605fa8d9854d3ec"
 
   url "https://github.com/xzchick/envy-orbit/releases/download/v#{version}/envy-orbit-v#{version}-macos-arm64.tar.gz",
       verified: "github.com/xzchick/envy-orbit/"

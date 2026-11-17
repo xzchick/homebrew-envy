@@ -1,6 +1,6 @@
 cask "envy-skywatch" do
-  version "0.1.0"
-  sha256 "9cc454d819bdcc876dc1efd07017b257f7d0e8e8710f8f6a32fd4717376ef989"
+  version "0.2.2"
+  sha256 "26fe07a57d461328c85545dcaa5d53f8337d979ce559b06d330dc12bf4e5fd13"
 
   url "https://github.com/xzchick/envy-skywatch/releases/download/v#{version}/envy-skywatch-v#{version}-macos-arm64.tar.gz",
       verified: "github.com/xzchick/envy-skywatch/"
