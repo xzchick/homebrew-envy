@@ -1,6 +1,6 @@
 cask "envy-recon" do
-  version "0.1.0"
-  sha256 "79fc2877aa4128e3689c6414440df935e493aaaaff28f8e8bbd46d13b10cc78a"
+  version "0.1.1"
+  sha256 "c0a707bcc54d18ae6e4e4780f2986fa496b5ec8ebb4bc05159af965effde40ea"
 
   url "https://github.com/xzchick/envy-recon/releases/download/v#{version}/envy-recon-v#{version}-macos-arm64.tar.gz",
       verified: "github.com/xzchick/envy-recon/"
