@@ -1,6 +1,6 @@
 cask "envy-tools" do
-  version "0.1.0"
-  sha256 "790243eeb6cc35e1f47e49902406b25a983ce19e615785f72aa59b06471cbfbf"
+  version "0.1.1"
+  sha256 "7aed9ec82566da7131a2222a893b9a150822fbd9da24106c3e0f225b282e31de"
 
   url "https://github.com/xzchick/envy-tools/releases/download/v#{version}/envy-tools-v#{version}-macos-arm64.tar.gz",
       verified: "github.com/xzchick/envy-tools/"
