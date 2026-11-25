@@ -48,6 +48,11 @@ exact path).
 | `envy-ops-desk` | Encrypted operations plans with authenticated handoffs |
 | `envy-evidence-vault` | Encrypted file intake with a hash-verified custody journal |
 | `envy-integrity-monitor` | Encrypted file-integrity baselines with change detection |
+| `envy-tools` | Find, install and update every ENVY app (start here) |
+| `envy-recon` | OSINT terminal for domains, IPs, certificates and file metadata (uses the network) |
+| `envy-tunnel` | Your own WireGuard VPN on a server you control |
+| `envy-terminal` | Local AI in your Terminal with cited research (installs Ollama) |
+| `hash-audit` | Hash auditing and authorized password recovery with Hashcat or John |
 
 Each app lives in its own repository under [github.com/xzchick](https://github.com/xzchick).
 
